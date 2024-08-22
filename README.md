@@ -1,2 +1,1 @@
-# Simple_Prediction_Model
-Simple medal prediction model 
+## Prediction Model
